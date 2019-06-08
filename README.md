@@ -1,5 +1,5 @@
 # TicTacToe
-TicTacToe python simple code
+TicTacToe simple python code
 
 
 # Working
